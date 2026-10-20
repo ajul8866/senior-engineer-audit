@@ -1,0 +1,4 @@
+interface:
+  display_name: "Senior Engineer Audit"
+  short_description: "Six-phase audits with independent bug verification"
+  default_prompt: "Use $senior-engineer-audit to audit this repository and prepare independently verified bug bounty reports for manual submission."
